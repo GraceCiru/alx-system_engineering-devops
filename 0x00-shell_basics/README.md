@@ -1,1 +1,1 @@
-Task 0 where am I? Absolute path name of current working directory
+Display current directory contents in a long format
